@@ -3,7 +3,6 @@ using System.Web;
 using System.Collections.Generic;
 using RestSharp;
 using Plivo.Util;
-using RestSharp.Authenticators;
 using RestSharp.Deserializers;
 using RestSharp.Authenticators;
 using dict = System.Collections.Generic.Dictionary<string, string>;
